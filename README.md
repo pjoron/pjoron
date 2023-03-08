@@ -1,28 +1,24 @@
-<h1 align="center">Hello I'm Jules, a french student<br>in Full Stack Develppement</h1>
+<h1 align="center">Hello I'm Paul, a french student<br>in Full Stack Develppement</h1>
 
 <p align="center"> <img width='150px' src="https://komarev.com/ghpvc/?username=julesbsz&label=Profile%20views&color=0e75b6&style=flat" alt="julesbsz" /> </p>
 
 <h3>About me</h3>
 <p>
-  My name is Jules Bousrez and I am passionate about computers and new technologies for many years.<br>
-  I discovered web development and website creation in 2018, I then started to train myself in self-taught until 2020 when I received a training. So it's been 4 years that I'm passionate about web development and it's not about to stop.<br>
+  My name is Paul Joron and I am passionate about computers and new technologies for many years.<br>
+  I discovered web development and website creation in 2019, I then started to train myself in self-taught until 2020 when I received a training. So it's been 4 years that I'm passionate about web development and it's not about to stop.<br>
   I am often described as resourceful, I have the ability to adapt to any kind of situation. <br>I can work independently as well as in a team.
 </p>
 
 - 🤝 You can hire me as **Full Stack Dev / Front End Dev**
 
-- 👨‍💻 All of my projects are available at **[julesbousrez.fr](https://julesbousrez.fr)**
+- ✉️ You can contact me at **joronpaul@gmail.com**
 
-- ✉️ You can contact me at **contact@julesbousrez.fr**
-
-- 🌱 I’m currently learning **VueJs and ReactJs**
+- 🌱 I’m currently learning **VueJs and Symfony**
 
 <br>
 <h3 align="left">Connect with me here</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jules-bousrez" target="blank"><img width='100px' height='50px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules-bousrez" height="30" width="40" /></a>
-<a href="https://instagram.com/jules_bousrez" target="blank"><img width='100px' height='50px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jules_bousrez" height="30" width="40" /></a>
-<a href="https://www.behance.net/julesbousrez" target="blank"><img width='100px' height='50px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="julesbousrez" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/paul-joron" target="blank"><img width='100px' height='50px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules-bousrez" height="30" width="40" /></a>
 </p>
 
 <br>
