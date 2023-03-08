@@ -15,11 +15,6 @@
 
 - 🌱 I’m currently learning **VueJs and Symfony**
 
-<br>
-<h3 align="left">Connect with me here</h3>
-<p align="center">
-<a href="www.linkedin.com/in/paul-joron" target="blank"><img width='100px' height='50px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules-bousrez" height="30" width="40" /></a>
-</p>
 
 <br>
 <h3 align="left">Languages and Tools I use</h3>
